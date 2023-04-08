@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Xin Cai (蔡昕)
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Xin 
+last_name: Cai 
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Chinese Academy of Sciences
+    url: https://www.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 3D Computer Vision, Gaze Estimation and Computational Photography.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Computer Vision
   - Information Retrieval
 
 # Education to show in About widget
@@ -57,15 +57,15 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +74,14 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'caixin16@mails.ucas.ac.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I received my bachelor’s degree in Computer Science from [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) in 2020. Currently, I am a Master’s student at [VIPL Group](http://vipl.ict.ac.cn/), [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/) , supervised by [Prof. Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ&hl=en) and [Prof. Jiabei Zeng](https://dualplus.github.io/). I will start my Ph.D. at [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) of [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) in Fall 2023, supervised by [Prof. Tianfan Xue](https://tianfan.info/). 
+
+Specialties:  3D Computer Vision, Gaze Estimation and Computational Photography.
+
 {style="text-align: justify;"}
